@@ -1,4 +1,4 @@
-# Electronic Healthcare Management System (EHCMS)
+# Medi-Mind-System-AI
 
 A comprehensive healthcare management platform built with the MERN stack, featuring patient management, appointment scheduling, prescription management, and OCR-powered document processing.
 
