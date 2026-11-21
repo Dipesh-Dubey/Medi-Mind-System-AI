@@ -272,7 +272,7 @@ const processPrescriptionOCR = async (req, res) => {
     }
 
     const ocrResponse = await axios.post(
-      `${process.env.OCR_SERVICE_URL}/extract-prescription,
+      `${process.env.OCR_SERVICE_URL}/extract-prescription`,
       formData,
       {
         headers: {
